@@ -1,1 +1,5 @@
 *.meta
+Terrain Generator v2/Assets/TerrainDemoScene_URP/Terrain/Layers/Cliff_Mossy_E.terrainlayer
+Terrain Generator v2/Assets/TerrainDemoScene_URP/Terrain/Textures/Cliff_Mossy_E/Cliff_Mossy_E_Normal.tif
+Terrain Generator v2/Assets/TerrainDemoScene_URP/Terrain/Textures/Cliff_Mossy_E/Cliff_Mossy_E_MaskMap.tif
+Terrain Generator v2/Assets/TerrainDemoScene_URP/Terrain/Textures/Cliff_Mossy_E/Cliff_Mossy_E_BaseColor.tif
