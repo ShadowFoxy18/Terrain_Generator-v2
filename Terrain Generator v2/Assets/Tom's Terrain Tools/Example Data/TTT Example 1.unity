@@ -254,6 +254,7 @@ MonoBehaviour:
   runMultiplier: 2.5
   runKey: 304
   groundLayer:
+    serializedVersion: 2
     m_Bits: 1
 --- !u!81 &308301684
 AudioListener:
